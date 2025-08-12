@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TS3BFX5G72.pro.zentrades.ios",
+        "paths": [ "/zenclip/*" ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "TS3BFX5G72.pro.zentrades.ios.Clip"
+    ]
+  }
+}
